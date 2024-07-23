@@ -1,0 +1,38 @@
+
+  .main_counter{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+  }
+  .counter_view,.counter_view_2,.counter_view_3,.counter_view_4{
+    padding: 60px 40px;
+    background-color: #1BC26C;
+    margin: 0px 15px;
+    text-align: center;
+    border-radius: 5px;
+  }
+  .counter_view_2{
+    background-color: #3B7EFF;
+  }
+  .counter_view_3{
+    background-color: #B088F9;
+  }
+  .counter_view_4{
+    background-color: #F54291;
+  }
+  .cunt_icn i{
+    color: #fff;
+    font-size: 40px;
+    margin-bottom: 20px;
+  }
+  .count{
+    font-size: 50px;
+    color: #fff;
+    font-weight: 700;
+    margin-bottom: 10px;
+  }
+  .coun_name{
+    font-size: 16px;
+    color: #fff;
+    line-height: 1.2;
+  }
+  
